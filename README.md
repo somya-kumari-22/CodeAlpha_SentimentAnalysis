@@ -8,11 +8,6 @@ Analyzes Amazon-style product reviews and classifies them as **Positive**, **Neg
 pip install textblob wordcloud pandas numpy matplotlib seaborn
 ```
 
-## How to Run
-```bash
-python task4_sentiment_analysis.py
-```
-
 ## Output Files
 - `task4_sentiment_analysis.png` — Main dashboard (4 charts)
 - `task4_wordclouds.png` — Word clouds for each sentiment
@@ -37,9 +32,6 @@ python task4_sentiment_analysis.py
 - Polarity score ranges from -1 (very negative) to +1 (very positive)
 - Word clouds reveal what customers talk about most
 - Product-wise analysis helps identify which products need improvement
-
-## GitHub Upload
-Create repo: `CodeAlpha_SentimentAnalysis`
 
 Upload these files:
 - `task4_sentiment_analysis.py`
