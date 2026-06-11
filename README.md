@@ -32,9 +32,3 @@ pip install textblob wordcloud pandas numpy matplotlib seaborn
 - Polarity score ranges from -1 (very negative) to +1 (very positive)
 - Word clouds reveal what customers talk about most
 - Product-wise analysis helps identify which products need improvement
-
-Upload these files:
-- `task4_sentiment_analysis.py`
-- `task4_sentiment_analysis.png`
-- `task4_wordclouds.png`
-- This README
